@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Tanushri's Website
 
-Yes!! 
+About me
 
 ### Markdown
 
